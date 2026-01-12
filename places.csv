@@ -1,0 +1,12 @@
+id,name,visited
+1,Tokio,false
+2,Budapest,true
+3,Nairobi,false
+4,Berlín,true
+5,Lisboa,true
+6,Denver,false
+7,Moscú,false
+8,Oslo,false
+9,Río,true
+10,Cincinnati,false
+11,Helsinki,false
